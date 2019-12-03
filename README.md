@@ -28,3 +28,6 @@ while True:
         first_display = False
         
 ```
+
+## Hardware
+[Adafruit PyBadge for CircuitPython](https://www.adafruit.com/product/4200)
